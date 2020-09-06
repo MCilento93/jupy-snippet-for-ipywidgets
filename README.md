@@ -1,5 +1,5 @@
-# jupy-snippet-for-ipywidgets
-This repository contains some code snippets to use ipywidgets for static assignment of variables within a Jupyter notebook.
+# jupy-snippets for ipywidgets
+This repository contains some code-snippets to show the use of jupyter-notebook-ipywidgets.
 <br>
 ### notebook 'assignment of variables by ipywidgets'
 This notebook shows three methods for assigning variables by mean of jupyter ipywidgets, interact and interactive.
